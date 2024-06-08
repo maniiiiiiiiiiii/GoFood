@@ -14,7 +14,7 @@ This is a Food Delivery app where users can search for their favourite dishes an
 Before getting started, make sure you have Node.js and npm installed on your machine.
 
 1. **Clone the repository:**
-   git clone [https://github.com/tarun6738/food-delivery-app.git]
+   git clone [https://github.com/maniiiiiiiiiiii/GoFood.git]
 
 2. **Install dependencies:**
    Go to backend folder and run npm install
